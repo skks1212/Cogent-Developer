@@ -1,0 +1,13 @@
+footer{
+    background: #2874F0;
+    padding: 50px;
+    padding-left: calc(50vw - 500px);
+    padding-right: calc(50vw - 500px);
+}
+.cd-footer-column{
+    width: 23%;
+    color: white;
+    line-height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}

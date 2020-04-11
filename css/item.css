@@ -1,0 +1,24 @@
+.cd-product-main-img{
+    width: 700px;
+    height: 500px;
+    background: #F6F6F6;
+}
+.cd-product-sub-img{
+    width: 200px;
+    height: 150px;
+    background: #F6F6F6;
+    display: inline-block;
+}
+.cd-product-l{
+    display: inline-block;
+    vertical-align: top;
+}
+.cd-product-r{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    width: 450px;
+}
+.cd-item-v{
+    width: 250px;
+}

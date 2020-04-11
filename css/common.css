@@ -1,0 +1,142 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cd-page{
+    width: 1000px;
+    text-align: center;
+    margin-left: calc(50vw - 500px);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.cd-info-box{
+    background: #FFF1D9;
+    position: relative;
+    padding: 50px;
+    text-align: left;
+    padding-bottom: 200px;
+    overflow: none;
+}
+.cd-info-bg-accent{
+    background: #2874F0;
+    height: 90px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    color: white;
+    line-height: 30px;
+    padding:30px 50px;
+}
+.cd-info-img{
+    position: absolute;
+    right: 50px;
+    top: 60px;
+    width: 30%;
+    z-index: 1;
+}
+.cd-info-title{
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 15px;
+}
+.cd-info-title small{
+    font-size: 25px;
+}
+.cd-info-cont{
+    width: 50%;
+    line-height: 30px;
+    color: #A09F9F;
+}
+.cd-slider{
+    background:#F6F6F6;
+    margin-top: 100px;
+    height: 480px;
+    position: relative;
+}
+.cd-slider-info{
+    width: 60%;
+    padding: 100px 50px;
+    text-align: left;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+.cd-slider-img{
+    width: 40%;
+    position: absolute;
+    top: 100px;
+    right: 0px;
+    bottom: 0px;
+}
+.cd-slider-img img{
+    width: 80%;
+}
+.cd-slider-bl{
+    position: absolute;
+    top:215px;
+    width: 50px;
+    left: -25px;
+}
+.cd-slider-br{
+    position: absolute;
+    top:215px;
+    width: 50px;
+    right: -25px;
+}
+.cd-slider-page-mark{
+    position: absolute;
+    bottom: 30px;
+    width: 200px;
+    left: 400px;
+}
+.cd-item-horizontal{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+}
+.cd-iten-h{
+    background:#F6F6F6;
+    box-shadow: 13px 13px 6px 0px rgba(0,0,0,0.16);
+    width: 300px;
+    margin-right: 50px;
+    height: 200px;
+    position: relative;
+}
+.cd-item-vertical{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+}
+.cd-item-v{
+    background:#F6F6F6;
+    text-align: center;
+    box-shadow: 13px 13px 6px 0px rgba(0,0,0,0.16);
+    width: 231.25px;
+    margin-right: 25px;
+    height: 500px;
+    position: relative;
+}
+.cd-item-img{
+    width: 100%;
+    padding-top:30px;
+}
+.cd-item-info{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.cd-tender-box{
+    background: #FFF1D9;
+    position: relative;
+    padding: 50px;
+    text-align: left;
+    overflow: none;
+}

@@ -1,0 +1,13 @@
+.cd-settings{
+    display: inline-block;
+    width: 450px;
+    vertical-align: top;
+}
+.cd-products{
+    display: inline-block;
+    width: calc(100% - 500px);
+    vertical-align: top;
+}
+.cd-item-v{
+    width: 300px;
+}
